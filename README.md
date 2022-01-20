@@ -65,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # food-delivery-api
+Cette application a été concue dans le cas de mon apprentissage de laraevel 
+-C'est une api  faite avec laravel-sanctum 
+-J'ai d'ailleurs construis un site front-end avec vue.js pour pouvoir l'exploiter .
+-Veullez aussi cloner le projet food-delivery-app pour pouvoir voir l'intégralité de ,on travail
